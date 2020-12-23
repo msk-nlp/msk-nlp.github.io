@@ -1,12 +1,12 @@
- ---
- permalink: /
- title: "About me"
- excerpt: "About me"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+---
+permalink: /
+title: "About Us"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 We are a team in the Strategy & Innovation department at Memorial Sloan Kettering Cancer Center.
 
